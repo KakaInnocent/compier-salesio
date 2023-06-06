@@ -1,1 +1,0 @@
-# compier-salesio
